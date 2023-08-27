@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prjdcs
+</name>
+</assembly>
+<members>
+<member name="T:prjdcs.DataSet1.vendorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjdcs.DataSet1.vendorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjdcs.DataSet1.vendorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjdcs.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prjdcs.DataSet4.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjdcs.DataSet4.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjdcs.DataSet4.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjdcs.DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prjdcs.DataSet3.ptempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjdcs.DataSet3.ptempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjdcs.DataSet3.ptempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjdcs.DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prjdcs.DataSet2.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjdcs.DataSet2.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjdcs.DataSet2.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjdcs.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

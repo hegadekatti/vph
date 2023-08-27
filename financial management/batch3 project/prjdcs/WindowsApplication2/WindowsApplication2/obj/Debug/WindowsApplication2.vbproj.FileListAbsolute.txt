@@ -1,0 +1,10 @@
+D:\prjdcs\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\prjdcs\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\prjdcs\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\prjdcs\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

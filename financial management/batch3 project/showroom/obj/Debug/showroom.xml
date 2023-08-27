@@ -1,0 +1,612 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+showroom
+</name>
+</assembly>
+<members>
+<member name="T:showroom.DataSet25.tbpvehdtlsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet25.tbpvehdtlsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet25.tbpvehdtlsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet25">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet23.tbptempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet23.tbptempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet23.tbptempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet23">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet22.tbitemmsterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet22.tbitemmsterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet22.tbitemmsterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet22">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:showroom.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:showroom.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:showroom.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:showroom.DataSet3.tbsalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet3.tbsalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet3.tbsalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet6.tbpvehdtlsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet6.tbpvehdtlsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet6.tbpvehdtlsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet9.frmprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet9.frmprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet9.frmprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet12.tbstempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet12.tbstempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet12.tbstempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet12">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet15.tbdealerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet15.tbdealerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet15.tbdealerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet15">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet18.tbstckDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet18.tbstckRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet18.tbstckRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet18">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet97.frmsprtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet97.frmsprtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet97.frmsprtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet97">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet81.frmprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet81.frmprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet81.frmprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet81">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet84.frmsprtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet84.frmsprtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet84.frmsprtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet84">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet61.tbdealerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet61.tbdealerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet61.tbdealerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet61">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet8.frmprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet8.frmprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet8.frmprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet24.tbstckvehDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet24.tbstckvehRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet24.tbstckvehRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet24">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet11.tbjobcardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet11.tbjobcardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet11.tbjobcardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet11">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet17.tbvehicleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet17.tbvehicleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet17.tbvehicleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet17">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet80.frmprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet80.frmprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet80.frmprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet80">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet83.frmIMsprtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet83.frmIMsprtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet83.frmIMsprtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet83">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet70.tbstempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet70.tbstempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet70.tbstempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet70">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet79.tbpvehdtlsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet79.tbpvehdtlsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet79.tbpvehdtlsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet79">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet60.tbcustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet60.tbcustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet60.tbcustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet60">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet63.TbpurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet63.TbpurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet63.TbpurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet63">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet1.tbcustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet1.tbstckDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet1.frmprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet1.tbjobcardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet1.frmIMprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet1.tbcustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet1.tbstckRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet1.frmprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet1.tbjobcardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet1.frmIMprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet1.tbcustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet1.tbstckRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet1.frmprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet1.tbjobcardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet1.frmIMprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet4.frmsprtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet4.frmsprtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet4.frmsprtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet7.tbstckDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet7.tbstckRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet7.tbstckRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet20.tbstempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet20.tbstempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet20.tbstempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet20">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet95.frmIMsprtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet95.frmIMsprtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet95.frmIMsprtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet95">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet10.tbjobcardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet10.tbjobcardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet10.tbjobcardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet10">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet16.tbitemmsterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet16.tbitemmsterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet16.tbitemmsterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet16">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet19.tbstckDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet19.tbstckRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet19.tbstckRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet19">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet82.frmIMprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet82.frmprptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet82.frmIMprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet82.frmprptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet82.frmIMprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet82.frmprptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet82">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:showroom.DataSet78.tbslsvehicdtlsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:showroom.DataSet78.tbslsvehicdtlsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:showroom.DataSet78.tbslsvehicdtlsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:showroom.DataSet78">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

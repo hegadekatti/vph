@@ -1,0 +1,16 @@
+D:\prjdcs\prjdcs\prjdcs\bin\Release\prjdcs.exe
+D:\prjdcs\prjdcs\prjdcs\bin\Release\prjdcs.pdb
+D:\prjdcs\prjdcs\prjdcs\bin\Release\prjdcs.xml
+D:\prjdcs\prjdcs\prjdcs\obj\Release\ResolveAssemblyReference.cache
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.frmcmaster.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.frmitemmaster.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.frmpurchase.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.frmstock.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.frmvmaster.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.Form1.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.MDIParent1.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.Resources.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.vbproj.GenerateResource.Cache
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.exe
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.xml
+D:\prjdcs\prjdcs\prjdcs\obj\Release\prjdcs.pdb

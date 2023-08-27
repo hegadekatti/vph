@@ -1,0 +1,10 @@
+D:\prjdcs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\prjdcs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\prjdcs\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\prjdcs\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.purchasedeatils.resources

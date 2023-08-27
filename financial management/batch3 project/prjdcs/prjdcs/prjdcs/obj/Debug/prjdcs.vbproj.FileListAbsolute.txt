@@ -1,0 +1,44 @@
+D:\prjdcs\prjdcs\prjdcs\bin\Debug\prjdcs.exe
+D:\prjdcs\prjdcs\prjdcs\bin\Debug\prjdcs.pdb
+D:\prjdcs\prjdcs\prjdcs\bin\Debug\prjdcs.xml
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\ResolveAssemblyReference.cache
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.Form1.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.MDIParent1.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.Resources.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.vbproj.GenerateResource.Cache
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.exe
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.xml
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.pdb
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmvmaster.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmcmaster.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmitemmaster.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmpurchase.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmstock.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmsales.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmprpt.resources
+D:\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmsrpt.resources
+D:\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.exe
+D:\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.xml
+D:\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.pdb
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.exe
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.xml
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.pdb
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\bin\Debug\prjdcs.exe
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\bin\Debug\prjdcs.pdb
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\bin\Debug\prjdcs.xml
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\ResolveAssemblyReference.cache
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmcmaster.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmitemmaster.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmprpt.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmpurchase.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmsales.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmsrpt.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmstock.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.frmvmaster.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.Form1.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.MDIParent1.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.Resources.resources
+D:\New Folder\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.vbproj.GenerateResource.Cache
+D:\ppppvvnnn\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.exe
+D:\ppppvvnnn\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.xml
+D:\ppppvvnnn\ppppp\prjdcs\prjdcs\prjdcs\obj\Debug\prjdcs.pdb

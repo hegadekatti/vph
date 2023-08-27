@@ -1,0 +1,10 @@
+D:\prjdcs\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\prjdcs\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\prjdcs\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+D:\prjdcs\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
